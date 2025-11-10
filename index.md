@@ -34,5 +34,10 @@ Sirve para guardar y manipular datos (como números, texto o valores lógicos).
 **Cadenas de texto (string):** Guardan conjuntos de caracteres.  
 **Booleanas (bool):** Representan valores lógicos: verdadero o falso.  
 
-
-
+# Ejemplo de python
+```python
+# Este programa muestra un mensaje de bienvenida personalizado usando una variable y una f-string.
+nombre = "Yeison"
+mensaje = f"Hola, {nombre}! Bienvenido al curso de programación."
+print(mensaje)
+```
