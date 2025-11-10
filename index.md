@@ -2,10 +2,10 @@
 Es un sistema físico a partir del cual se implementa la lógica de las operaciones aritméticas, matemáticas o de otro tipo, y luego se crean interpretaciones de esas operaciones.
 
 # Lenguajes de programación más usados
-**C (1972):** Base de muchos lenguajes, usado en sistemas operativos y software de bajo nivel.  
-**C++ (1983):** Versión mejorada de C; se usa en videojuegos, simuladores y programas de alto rendimiento.  
-**Java (1995):** Lenguaje multiplataforma para apps Android, software empresarial y web.  
-**JavaScript (1995):** Lenguaje de la web, crea páginas interactivas y aplicaciones online.  
+**C (1972):** base de muchos lenguajes, usado en sistemas operativos y software de bajo nivel.  
+**C++ (1983):** versión mejorada de C; se usa en videojuegos, simuladores y programas de alto rendimiento.  
+**Java (1995):** lenguaje multiplataforma para apps Android, software empresarial y web.  
+**JavaScript (1995):** lenguaje de la web, crea páginas interactivas y aplicaciones online.  
 
 # Sistemas operativos
 ## Windows
@@ -18,21 +18,21 @@ Sistema operativo libre y de código abierto, basado en el núcleo Linux.
 Destaca por su seguridad, estabilidad y personalización, muy usado en servidores, desarrollo y entornos académicos.
 
 # Elementos que componen un lenguaje
-**Entradas:** Son los datos que el programa recibe del usuario o de otro sistema para procesarlos.  
-**Salidas:** Son los resultados que el programa muestra después de procesar las entradas.  
-**Matemáticas:** Son las operaciones numéricas que realiza el programa, como sumar, restar, multiplicar o dividir.  
-**Ejecución condicional:** Permite que el programa tome decisiones según una condición.  
-**Repetición:** Consiste en ejecutar varias veces un mismo bloque de código mientras se cumpla una condición.  
+**Entradas:** son los datos que el programa recibe del usuario o de otro sistema para procesarlos.  
+**Salidas:** son los resultados que el programa muestra después de procesar las entradas.  
+**Matemáticas:** son las operaciones numéricas que realiza el programa, como sumar, restar, multiplicar o dividir.  
+**Ejecución condicional:** permite que el programa tome decisiones según una condición.  
+**Repetición:** consiste en ejecutar varias veces un mismo bloque de código mientras se cumpla una condición.  
 
 # Definición de variable
 Sirve para guardar y manipular datos (como números, texto o valores lógicos).
 
 ## Tipos de variables
-**Enteras (int):** Guardan números enteros.  
-**Decimales o flotantes (float, double):** Guardan números con decimales.  
-**Carácter (char):** Almacenan un solo símbolo o letra.  
-**Cadenas de texto (string):** Guardan conjuntos de caracteres.  
-**Booleanas (bool):** Representan valores lógicos: verdadero o falso.  
+**Enteras (int):** guardan números enteros.  
+**Decimales o flotantes (float, double):** guardan números con decimales.  
+**Carácter (char):** almacenan un solo símbolo o letra.  
+**Cadenas de texto (string):** guardan conjuntos de caracteres.  
+**Booleanas (bool):** representan valores lógicos: verdadero o falso.  
 
 # Ejemplo de python
 ```python
