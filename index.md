@@ -24,4 +24,13 @@ Destaca por su seguridad, estabilidad y personalización, muy usado en servidore
 **Ejecución condicional:** Permite que el programa tome decisiones según una condición.
 **Repetición:** Consiste en ejecutar varias veces un mismo bloque de código mientras se cumpla una condición.
 
+# Definición de variable
+Sirve para guardar y manipular datos (como números, texto o valores lógicos)
+## Tipos de variables
+**Enteras (int):** Guardan números enteros.
+**Decimales o flotantes (float, double):** Guardan números con decimales.
+**Carácter (char):** Almacenan un solo símbolo o letra.
+**Cadenas de texto (string):** Guardan conjuntos de caracteres.
+**Booleanas (bool):** Representan valores lógicos: verdadero o falso.
+
 
