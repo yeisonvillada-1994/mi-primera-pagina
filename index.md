@@ -17,3 +17,11 @@ Es el más usado en entornos domésticos, educativos y empresariales.
 Sistema operativo libre y de código abierto, basado en el núcleo Linux.  
 Destaca por su seguridad, estabilidad y personalización, muy usado en servidores, desarrollo y entornos académicos.
 
+# Elementos que componen un lenguaje
+**Entradas:** Son los datos que el programa recibe del usuario o de otro sistema para procesarlos.
+**Salidas:** Son los resultados que el programa muestra después de procesar las entradas.
+**Matemáticas:** Son las operaciones numéricas que realiza el programa, como sumar, restar, multiplicar o dividir.
+**Ejecución condicional:** Permite que el programa tome decisiones según una condición.
+**Repetición:** Consiste en ejecutar varias veces un mismo bloque de código mientras se cumpla una condición.
+
+
