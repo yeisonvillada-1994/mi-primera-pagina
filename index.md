@@ -41,3 +41,8 @@ nombre = "Yeison"
 mensaje = f"Hola, {nombre}! Bienvenido al curso de programación."
 print(mensaje)
 ```
+# Reflexión sobre lo aprendido
+De manera personal, me pareció que **GitHub** es una excelente herramienta para trabajar de forma colaborativa en las clases. Antes la había utilizado muy poco, pero en este momento me estoy familiarizando más con su uso. Le encuentro muchas ventajas, además de que es una plataforma en línea y gratuita. Estoy seguro de que aprender a utilizarla de la mejor manera será de gran ayuda en el futuro, especialmente en nuestro trabajo como desarrolladores.
+
+### Referencias de IA
+**ChatGPT:** conversación sobre lenguajes de programación más usados, definición de variable y tipos de varibales, en Python (https://chatgpt.com/share/69117b80-9658-8000-b16b-4bb4aa11ef0c)
