@@ -114,4 +114,6 @@ for i in range(3):
     adelante()
     abajo()
 ```
-
+### 📌 Nota
+El código ejecutable está disponible en Google Colab para facilitar su prueba.
+Link de Google Colab: https://colab.research.google.com/drive/1cw7IQs0W1Iu3MydBYI8ZfKa9jpmbs1-e#scrollTo=kUq8qZVun_wJ 
