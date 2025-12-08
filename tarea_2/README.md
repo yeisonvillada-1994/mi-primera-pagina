@@ -1,6 +1,7 @@
 # Reto 1: Simular el comportamiento de la tortuga usando solo print() e input()
 Este programa dibuja una flecha usando guiones y el símbolo >. 
 
+```python
 from re import L
 
 pasos = input("Ingrese pasos: ")
@@ -10,6 +11,7 @@ for i in range(pasos):
     print("-", end="")
 
 print(">")
+```
 
 # Reto 2: Tortuga bajando
 Dibuja una flecha vertical usando líneas hacia abajo y una punta al final.
