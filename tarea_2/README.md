@@ -1,5 +1,5 @@
 # Reto 1: Simular el comportamiento de la tortuga usando solo print() e input()
-Este programa pide cuántos pasos quieres avanzar y dibuja una flecha horizontal, cada paso se muestra como un guion - y al final se coloca el simbolo >.
+Este fragmento de codigo pide cuántos pasos quieres avanzar y dibuja una flecha horizontal, cada paso se muestra como un guion - y al final se coloca el simbolo >.
 
 ```python
 from re import L
@@ -14,7 +14,7 @@ print(">")
 ```
 
 # Reto 2: Tortuga bajando
-Este programa pide cuántos pasos debe bajar la flecha, cada paso se representa con una línea vertical con el simbolo | y al final se dibuja la punta con el simbolo V.
+Este fragmento de codigo pide cuántos pasos debe bajar la flecha, cada paso se representa con una línea vertical con el simbolo | y al final se dibuja la punta con el simbolo V.
 
 ```python
 pasos = input("Ingrese pasos: ")
@@ -27,7 +27,7 @@ print("V")
 ```
 
 # Reto 3: Girar y dibujar usando solo print() e input()
-Este programa dibuja una flecha que primero va hacia la derecha y luego baja, primero imprime una línea horizontal de guiones, y después imprime líneas verticales alineadas para formar la parte de abajo.
+Este fragmento de codigo dibuja una flecha que primero va hacia la derecha y luego baja, primero imprime una línea horizontal de guiones, y después imprime líneas verticales alineadas para formar la parte de abajo.
 
 ```python
 pasos = input("Ingrese pasos: ")
