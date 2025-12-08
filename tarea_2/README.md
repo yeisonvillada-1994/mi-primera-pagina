@@ -16,6 +16,7 @@ print(">")
 # Reto 2: Tortuga bajando
 Dibuja una flecha vertical usando líneas hacia abajo y una punta al final.
 
+```python
 pasos = input("Ingrese pasos: ")
 pasos = int(pasos)
 
@@ -23,12 +24,12 @@ for i in range(pasos):
     print("|")
 
 print("V")
+```
 
 # Reto 3: Girar y dibujar usando solo print() e input()
 Dibuja una flecha que primero va a la derecha y luego baja.
 
-from re import L
-
+```python
 pasos = input("Ingrese pasos: ")
 pasos = int(pasos)
 
@@ -46,10 +47,12 @@ for i in range(1):
     for i in range(pasos):
         print(" ", end="")
     print("V")
+```
 
 # Reto 4: Encapsula los comportamientos anteriores usando funciones
 Usa funciones para dibujar la parte horizontal y vertical de la flecha.
 
+```python
 pasos_adelante = 0
 pasos_abajo = 0
 
@@ -79,9 +82,12 @@ def abajo():
 adelante()
 abajo()
 
+```
+
 # Reto 5: La tortuga baja las escalas
 Dibuja tres escalones que avanzan a la derecha y luego bajan.
 
+```python
 pasos_adelante = 0
 pasos_h = 0
 pasos_v = 0
@@ -104,5 +110,5 @@ def abajo():
 for i in range(3):
     adelante()
     abajo()
-
+```
 
