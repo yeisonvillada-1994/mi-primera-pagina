@@ -2,7 +2,6 @@
 Este fragmento de codigo pide cuántos pasos quieres avanzar y dibuja una flecha horizontal, cada paso se muestra como un guion - y al final se coloca el simbolo >.
 
 ```python
-
 pasos = input("Ingrese pasos: ")
 pasos = int(pasos)
 
