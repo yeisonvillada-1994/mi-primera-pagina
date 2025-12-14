@@ -4,19 +4,6 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 
 ---
 
-## 🌐 Descripción
-
-Esta página personal fue creada con el objetivo de:
-
-* Presentar quién soy, habilidades y fortalezas.
-* Mostrar algunos de mis proyectos y trabajos.
-* Compartir conocimientos, aprendizajes y experiencias.
-* Servir como portafolio digital.
-
-El sitio está pensado para ser sencillo, claro y fácil de navegar.
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 Dependiendo de tu proyecto, aquí puedes ajustar la lista:
