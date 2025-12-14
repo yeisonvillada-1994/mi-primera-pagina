@@ -36,13 +36,12 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
      target="_blank"
      rel="noopener noreferrer">
   Ejercio 1
-  </a>
-  * <a href="https://yeisonvillada-1994.github.io/Ejercicio-2/"
+  </a> 
+* <a href="https://yeisonvillada-1994.github.io/Ejercicio-2/"
      target="_blank"
      rel="noopener noreferrer">
   Ejercio 2
   </a>
-
 ---
 ⭐ Este repositorio está en constante actualización.
 ---
