@@ -56,5 +56,7 @@ Puedes ver la página de dos formas:
 
 ## 📌 Proyectos
 
-* 
+* [Ejercio 1](https://tu-usuario.github.io)
+* [Ejercio 2](https://tu-usuario.github.io)
+
 
