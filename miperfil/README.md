@@ -7,8 +7,7 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 ## 🛠️ Tecnologías utilizadas
 
 
-* HTML5
-* CSS3
+* Python
 * Git y GitHub
 
 ---
