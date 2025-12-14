@@ -67,10 +67,7 @@ Puedes ver la página de dos formas:
 
 ---
 
-## 📌 Próximas mejoras
+## 📌 Proyectos
 
-* Agregar más proyectos.
-* Mejorar el diseño visual.
-* Optimizar el rendimiento.
-* Incluir una secc
+* 
 
