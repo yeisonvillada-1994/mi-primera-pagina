@@ -39,6 +39,8 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
   Ejercicio 2
   </a>
 ---
+
+
 ⭐ Este repositorio está en constante actualización.
 ---
 
