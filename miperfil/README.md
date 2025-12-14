@@ -8,7 +8,7 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 
 Esta página personal fue creada con el objetivo de:
 
-* Presentar quién soy y cuales son mis habilidades.
+* Presentar quién soy, habilidades y fortalezas.
 * Mostrar algunos de mis proyectos y trabajos.
 * Compartir conocimientos, aprendizajes y experiencias.
 * Servir como portafolio digital.
