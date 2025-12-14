@@ -11,31 +11,6 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 * Git y GitHub
 
 ---
-
-## 🚀 Cómo visualizar la página
-
-Puedes ver la página de dos formas:
-
-1. **Desde GitHub Pages** (si está habilitado):
-
-   * Ingresa al enlace publicado en la configuración del repositorio.
-
-2. **De forma local**:
-
-   * Descarga o clona este repositorio.
-   * Abre el archivo `index.html` en tu navegador.
-
----
-
-## ✨ Características
-
-* Diseño responsivo.
-* Navegación sencilla.
-* Contenido organizado y claro.
-* Enfoque personal y profesional.
-
----
-
 ## 📌 Proyectos
 
 * [Ejercio 1](https://tu-usuario.github.io)
