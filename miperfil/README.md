@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="img/20251213_201508.jpg" alt="Foto de perfil" width="200">
+</p>
+
+
 # 👋 Hola, soy Yeison Vilada Sánchez
 
 Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el código fuente de mi sitio web, donde comparto información sobre mí, mis proyectos y mis intereses.
