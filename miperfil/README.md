@@ -12,8 +12,6 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 
 ---
 
----
-
 ## 🚀 Cómo visualizar la página
 
 Puedes ver la página de dos formas:
