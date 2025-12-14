@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/20251213_201508.jpg" alt="Foto de perfil" width="300">
+  <img src="img/20251213_201508.jpg" alt="Foto de perfil" width="350">
 </p>
 
 
