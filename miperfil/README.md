@@ -29,12 +29,12 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
 * <a href="https://yeisonvillada-1994.github.io/Ejercicio-1/"
      target="_blank"
      rel="noopener noreferrer">
-  Ejercicio 1
+  Ejercicio 1 - Versión Funcional (Modularidad)
   </a> 
 * <a href="https://yeisonvillada-1994.github.io/Ejercicio-2/"
      target="_blank"
      rel="noopener noreferrer">
-  Ejercicio 2
+  Ejercicio 2 - Versión Orientada a Objetos (POO)
   </a>
 
 ---
