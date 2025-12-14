@@ -8,13 +8,17 @@
 Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el código fuente de mi sitio web, donde comparto información sobre mí, mis proyectos y mis intereses.
 
 ---
+## 📌 Sobre mí
+Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnología para resolver problemas prácticos. Me gusta organizar mis proyectos de forma clara y mejorar mis habilidades a través de la práctica constante.
 
-## 🛠️ Tecnologías utilizadas
+---
+## 🚀 Tecnologías que estoy aprendiendo
 
 
 * Python
 * Git y GitHub
-
+* Programación básica
+* Herramientas digitales para estudio y trabajo
 ---
 ## 📌 Proyectos
 
@@ -23,4 +27,7 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 * [Ejercio 1]([https://tu-usuario.github.io](https://yeisonvillada-1994.github.io/Ejercicio-1/))
 * [Ejercio 2](https://tu-usuario.github.io)
 
+---
+⭐ Este repositorio está en constante actualización.
+---
 
