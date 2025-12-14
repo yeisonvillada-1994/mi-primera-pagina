@@ -12,20 +12,6 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 
 ---
 
-## 📁 Estructura del proyecto
-
-```bash
-├── index.html
-├── css/
-│   └── estilos.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── img/
-│   └── icons/
-└── README.md
-```
-
 ---
 
 ## 🚀 Cómo visualizar la página
