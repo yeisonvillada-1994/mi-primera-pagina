@@ -6,7 +6,7 @@ Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el códi
 
 ## 🛠️ Tecnologías utilizadas
 
-Dependiendo de tu proyecto, aquí puedes ajustar la lista:
+Mis proyectos estan basados en los lenguajes:
 
 * HTML5
 * CSS3
