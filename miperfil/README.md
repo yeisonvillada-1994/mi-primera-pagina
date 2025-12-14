@@ -26,20 +26,18 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
   Actividad 2: Simulación de Mini-Turtle
   </a>
 * Actividad 3: Evolución de Mini-Turtle
-* <a href="https://yeisonvillada-1994.github.io/Ejercicio-1/"
-     target="_blank"
-     rel="noopener noreferrer">
-  Ejercicio 1 - Versión Funcional (Modularidad)
-  </a> 
-* <a href="https://yeisonvillada-1994.github.io/Ejercicio-2/"
-     target="_blank"
-     rel="noopener noreferrer">
-  Ejercicio 2 - Versión Orientada a Objetos (POO)
-  </a>
+  * → <a href="https://yeisonvillada-1994.github.io/Ejercicio-1/"
+       target="_blank"
+       rel="noopener noreferrer">
+      Ejercicio 1 - Versión Funcional (Modularidad)
+    </a>
+  * → <a href="https://yeisonvillada-1994.github.io/Ejercicio-2/"
+       target="_blank"
+       rel="noopener noreferrer">
+      Ejercicio 2 - Versión Orientada a Objetos (POO)
+    </a>
 
 ---
 
 ⭐ Este repositorio está en constante actualización.
 ---
-
-
