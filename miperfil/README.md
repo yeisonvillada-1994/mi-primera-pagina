@@ -22,7 +22,9 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
 ---
 ## 📌 Proyectos
 
-* Actividad 2 Simulación de Mini-Turtle - ([https://tu-usuario.github.io](https://github.com/yeisonvillada-1994/mi-primera-pagina/tree/main/tarea_2))
+* <a href="[https://github.com/tu-usuario](https://github.com/yeisonvillada-1994/mi-primera-pagina/tree/main/tarea_2)" target="_blank" rel="noopener noreferrer">
+🔹 Actividad 2 - Simulación de Mini-Turtle
+</a>
 * [Actividad 3 - Evolución de Mini-Turtle]  
 * [Ejercio 1]([https://tu-usuario.github.io](https://yeisonvillada-1994.github.io/Ejercicio-1/))
 * [Ejercio 2](https://tu-usuario.github.io)
