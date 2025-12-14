@@ -2,7 +2,6 @@
   <img src="img/20251213_201508.jpg" alt="Foto de perfil" width="350">
 </p>
 
-
 # 👋 Hola, soy Yeison Vilada Sánchez
 
 Bienvenido/a a mi página personal en GitHub. Este repositorio contiene el código fuente de mi sitio web, donde comparto información sobre mí, mis proyectos y mis intereses.
@@ -13,21 +12,20 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
 
 ---
 ## 🚀 Tecnologías que estoy aprendiendo
-
-
 * Python
 * Git y GitHub
 * Programación básica
 * Herramientas digitales para estudio y trabajo
+
 ---
 ## 📌 Proyectos
 
 * <a href="https://github.com/yeisonvillada-1994/mi-primera-pagina/tree/main/tarea_2"
      target="_blank"
      rel="noopener noreferrer">
-  Actividad 2 - Simulación de Mini-Turtle
+  Actividad 2: Simulación de Mini-Turtle
   </a>
-* Actividad 3 - Evolución de Mini-Turtle 
+* Actividad 3: Evolución de Mini-Turtle
 * <a href="https://yeisonvillada-1994.github.io/Ejercicio-1/"
      target="_blank"
      rel="noopener noreferrer">
@@ -38,9 +36,10 @@ Soy una persona interesada en el aprendizaje continuo y en el uso de la tecnolog
      rel="noopener noreferrer">
   Ejercicio 2
   </a>
----
 
+---
 
 ⭐ Este repositorio está en constante actualización.
 ---
+
 
